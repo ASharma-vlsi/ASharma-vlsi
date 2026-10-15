@@ -78,48 +78,6 @@ Verilog-based digital logic experiments, peripheral integration, simulation, and
 
 </div>
 
-### Contribution Snake (optional)
-
-To show an animated snake eating your contribution graph, add the workflow below to your profile repository at `.github/workflows/snake.yml`. It publishes an SVG to the `output` branch.
-
-```yaml
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the workflow runs, add this image where you want the animation to appear:
-
-```markdown
-![Contribution snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
-```
-
 ## `05` · Tools & Technologies
 
 <p align="center">
