@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#102b3b"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1e6470" stroke-width="1" opacity=".45"/></pattern></defs>
+<rect width="1200" height="260" rx="20" fill="url(#b)"/><rect width="1200" height="260" rx="20" fill="url(#g)"/>
+<g stroke="#22d3ee" fill="none" stroke-width="2" opacity=".75"><path d="M35 65H185V95H270"/><path d="M45 205H150V175H250"/><path d="M900 35H1000V75H1160"/><path d="M925 225H1050V190H1160"/></g>
+<g transform="translate(860 52)"><rect width="180" height="156" rx="9" fill="#0f766e" stroke="#67e8f9" stroke-width="2"/><rect x="17" y="17" width="146" height="122" rx="4" fill="#07121c" stroke="#5eead4"/><g stroke="#22d3ee" stroke-width="3"><path d="M-14 22H0M-14 48H0M-14 74H0M-14 100H0M-14 126H0M180 22H194M180 48H194M180 74H194M180 100H194M180 126H194"/><path d="M22 -14V0M48 -14V0M74 -14V0M100 -14V0M126 -14V0M152 -14V0M22 156V170M48 156V170M74 156V170M100 156V170M126 156V170M152 156V170"/></g><g stroke="#34d399" stroke-width="2.5" fill="none"><path d="M32 38H65V62H92V38H145"/><path d="M32 82H53V106H87V83H145"/><path d="M32 119H73V102H117V121H145"/></g><g fill="#67e8f9"><circle cx="65" cy="38" r="3"/><circle cx="92" cy="62" r="3"/><circle cx="53" cy="82" r="3"/><circle cx="87" cy="106" r="3"/></g></g>
+<text x="70" y="105" fill="#f8fafc" font-family="Arial,sans-serif" font-size="37" font-weight="700">AYUSHMAAN SHARMA</text>
+<text x="72" y="145" fill="#67e8f9" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">DIGITAL SILICON DASHBOARD</text>
+<text x="72" y="180" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">RTL · FPGA · RISC-V · ASIC PHYSICAL DESIGN</text>
+</svg>
