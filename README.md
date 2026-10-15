@@ -9,7 +9,7 @@
 *Building digital systems from RTL to silicon — one block at a time.*
 
 <p>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/ASharma-vlsi"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Focus-Digital%20VLSI-2563eb?style=for-the-badge" alt="Digital VLSI"/>
   <img src="https://img.shields.io/badge/Interests-ASIC%20%7C%20FPGA%20%7C%20RISC--V-0f766e?style=for-the-badge" alt="Interests"/>
 </p>
@@ -63,15 +63,15 @@ Verilog-based digital logic experiments, peripheral integration, simulation, and
 <div align="center">
 
 <!-- Contribution heatmap from GitHub -->
-<img src="https://ghchart.rshah.org/2563eb/USERNAME" alt="GitHub contribution graph for USERNAME" width="100%"/>
+<img src="https://ghchart.rshah.org/2563eb/ASharma-vlsi" alt="GitHub contribution graph for USERNAME" width="100%"/>
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ASharma-vlsi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASharma-vlsi&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </td>
 </tr>
 </table>
